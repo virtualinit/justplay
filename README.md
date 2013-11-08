@@ -1,4 +1,4 @@
-justplay
+cricplay
 ========
 
-Four Teams Cricket Knockout Series
+Console based Cricket Knockout Series
